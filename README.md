@@ -1,7 +1,7 @@
 # EXPERIMENT 02 INTEFACING A DIGITAL INPUT TO ARM DEVELOPMENT BOARD
 
-## Name: Thilakeswaran KP
-## Reg no: 212223230232
+## Name: Kishan
+## Reg no: 212223100022
 ## Date:22-05-2025
 
 ## Aim: 
